@@ -1,0 +1,7 @@
+{
+  "name": "Application-Connect 2.0",
+  "description": "Enterprise-grade data capture and validation platform for applications with integrated document management, fuzzy deduplication, and role-based workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
